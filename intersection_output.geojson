@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "intersection_output",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Latitude": 21.923394, "Longitude": 70.656187, "Temperature": 306.002318, "State_Name_1": "Gujarat", "State_Name_2": "Gujarat" }, "geometry": { "type": "Point", "coordinates": [ 7865410.75823431648314, 2502330.250570562668145 ] } },
+{ "type": "Feature", "properties": { "Latitude": 22.692675, "Longitude": 70.360145, "Temperature": 319.531791, "State_Name_1": "Gujarat", "State_Name_2": "Gujarat" }, "geometry": { "type": "Point", "coordinates": [ 7832455.513540893793106, 2594894.945441429968923 ] } },
+{ "type": "Feature", "properties": { "Latitude": 22.242117, "Longitude": 71.4852, "Temperature": 334.673177, "State_Name_1": "Gujarat", "State_Name_2": "Gujarat" }, "geometry": { "type": "Point", "coordinates": [ 7957696.063255320303142, 2540619.201072975061834 ] } },
+{ "type": "Feature", "properties": { "Latitude": 22.79299, "Longitude": 72.223051, "Temperature": 337.521895, "State_Name_1": "Gujarat", "State_Name_2": "Gujarat" }, "geometry": { "type": "Point", "coordinates": [ 8039833.260856627486646, 2607003.402617265004665 ] } },
+{ "type": "Feature", "properties": { "Latitude": 20.925572, "Longitude": 72.95294, "Temperature": 348.992169, "State_Name_1": "Gujarat", "State_Name_2": "Gujarat" }, "geometry": { "type": "Point", "coordinates": [ 8121084.132672239094973, 2383006.053630306385458 ] } }
+]
+}
